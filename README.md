@@ -18,6 +18,29 @@
  
  ![image](https://user-images.githubusercontent.com/84093261/130113435-379b2852-dc27-477f-b5c5-dd2792f436ae.png)
   
+ In the above examples the total number of iterations is 100000.
+ 
+
+ To get a better and easy to view plot for Cost/Loss Functions, I had also run the training loops for 100 iterations and the results were as follows:
+ 
+ a.) 
+ 
+ ![image](https://user-images.githubusercontent.com/84093261/130123352-ff8e3d9d-5454-4283-a027-079527de0e82.png)
+
+ b.)
+ 
+ ![image](https://user-images.githubusercontent.com/84093261/130123388-4f9c9d42-c445-4c69-a56e-6d52792910bc.png)
+
+ c.)
+ 
+ ![image](https://user-images.githubusercontent.com/84093261/130123434-46de234d-a829-47a9-a19a-5d92ea39cc98.png)
+
+ d.)
+ 
+ ![image](https://user-images.githubusercontent.com/84093261/130123487-72837f20-b3eb-4bd1-99e3-919e270deca4.png)
+
+
+ 
   
  **Analysis of the different Loss functions:**
  

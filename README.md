@@ -37,7 +37,7 @@
 
  d.)
  
- ![image](https://user-images.githubusercontent.com/84093261/130123487-72837f20-b3eb-4bd1-99e3-919e270deca4.png)
+ ![image](https://user-images.githubusercontent.com/84093261/130123856-e846a0e4-f7cc-49e5-9007-939bde4040de.png)
 
 
  
